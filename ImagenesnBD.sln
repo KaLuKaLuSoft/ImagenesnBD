@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagenesnBD", "ImagenesnBD.csproj", "{FF755B99-885C-4B66-9C81-49FC44110F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF755B99-885C-4B66-9C81-49FC44110F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF755B99-885C-4B66-9C81-49FC44110F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF755B99-885C-4B66-9C81-49FC44110F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF755B99-885C-4B66-9C81-49FC44110F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4044D0BD-017B-4C4D-ACF5-256B95E6CE7F}
+	EndGlobalSection
+EndGlobal
